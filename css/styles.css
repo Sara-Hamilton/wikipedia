@@ -5,3 +5,17 @@
 #welcome-head {
   margin-top: 0px;
 }
+
+#wikilogo {
+  width: 150px;
+}
+
+.nav {
+  background-color: lightgray;
+  width: 175px;
+  float: left;
+}
+
+.main {
+  float: right;
+}
