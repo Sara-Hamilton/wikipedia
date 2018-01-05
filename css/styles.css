@@ -14,10 +14,9 @@
 
 .nav {
   background-color: lightgray;
-  /* width: 175px; */
   float: left;
 }
 
-.main {
+.head {
   float: right;
 }
